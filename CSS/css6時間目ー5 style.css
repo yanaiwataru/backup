@@ -1,0 +1,17 @@
+.box{
+    width: 50px;
+    height: 50px;
+}
+.box_1{
+    background-color: red;
+}
+.box_2{
+    background-color: skyblue;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    
+}
+.box_3{
+    background-color: green;
+}
